@@ -1,8 +1,8 @@
-Welcome to this TensorFlow repository! This project leverages TensorFlow, an open-source machine learning framework developed by Google, to build and deploy deep learning models efficiently. Whether you're a beginner exploring AI or an experienced developer optimizing neural networks, this repository provides resources, code, and examples to help you get started.
+AI-Brain-Tumor-Detection/
 
-📌 Key Features
-Implementations of deep learning models (CNNs, RNNs, Transformers, etc.)
-Preprocessing pipelines for structured and unstructured data
-Model training, evaluation, and deployment workflows
-TensorFlow best practices and performance optimizations
-Jupyter notebooks and code examples for hands-on learning
+## 📂 Dataset
+This project uses the **MRI Brain Tumor Dataset (4-Class)** from Kaggle.  
+- 🔗 **Download Dataset**: [MRI Brain Tumor Dataset on Kaggle]
+- https://www.kaggle.com/datasets/mohamadabouali1/mri-brain-tumor-dataset-4-class-7023-images
+- 📜 **Dataset Description**: Contains 7,023 MRI images classified into **Glioma, Meningioma, Pituitary, and No Tumor**.
+- 📁 **How to Use**: After downloading, extract and place it inside the `dataset/` directory.
